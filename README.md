@@ -1,2 +1,3 @@
-# novozymes_enzyme
+# enzyme-prediction
+
 Help identify the thermostable mutations in enzymes
